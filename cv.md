@@ -5,7 +5,7 @@
 * Location: Herzeg Novi, Crna Gora
 * Email: welya@mail.com
 * telegram: @welya_spb
-* GitHub: l-ogneva
+* GitHub: lana-ogneva
 
 ### Hard skills
 
