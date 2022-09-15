@@ -7,12 +7,14 @@
 * telegram: @welya_spb
 * GitHub: lana-ogneva
 
+
 ### Hard skills
 
 * HTML/CSS
 * Git
 * Figma
 * Corel Draw 
+
 
 ### Soft skills
 
@@ -24,6 +26,7 @@
 * Sociability
 * Teamwork skills
 
+
 ### Code Example
 
 function multiply(a, b){
@@ -33,14 +36,17 @@ function multiply(a, b){
 let result = multiply(1, 2);
 console.log( result );
 
+
 ### Experience
 
 * Student RS School JavaScript/Front-end course
+
 
 ### Education
 
 * University: Northern (Arctic) Federal University (SAFU)y, Faculty of Sociology
 * Courses: Skillbox
+
 
 ### Language
 
